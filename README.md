@@ -2,6 +2,12 @@
 
 A collection of Claude Code skills for automating repetitive meeting and scheduling workflows.
 
+## Demo
+
+[![Watch the demo](https://img.shields.io/badge/Loom-Watch%20Demo-blueviolet)](https://www.loom.com/share/e0d244f28b00459e88fea846d50e856f)
+
+[▶️ Watch the video walkthrough](https://www.loom.com/share/e0d244f28b00459e88fea846d50e856f)
+
 ## Skills Overview
 
 | Skill | Replaces | Time Saved | Quality Improvement |

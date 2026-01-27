@@ -1,0 +1,34 @@
+================================================================================
+EMAIL DRAFT - Generated: 2026-01-26 02:34:45
+================================================================================
+
+To:      team@company.com
+CC:      None
+BCC:     None
+Subject: Meeting Summary: Weekly Status Meeting - January 26, 2026
+
+--------------------------------------------------------------------------------
+
+Hi Team,
+
+Thank you all for attending today's weekly status meeting. Here is a summary of the key outcomes and next steps.
+
+**Decisions Made:**
+- Marketing campaign launch approved for next Monday
+- Engineering feature deployment approved for tomorrow
+
+**Action Items:**
+- Jane Smith: Complete final approvals for marketing campaign (Due: Before Monday)
+- Emily Davis: Deploy new feature to production (Due: Tomorrow)
+
+**Discussion Highlights:**
+The marketing team confirmed that the campaign launch remains on track for next Monday with all assets finalized and no major risks identified. On the engineering side, the new feature has successfully passed QA testing and the team is prepared for tomorrow's deployment.
+
+Please reach out if you have any questions or need clarification on any items.
+
+Regards,
+John Doe
+
+================================================================================
+Source: /home/bilal/Documents/agentfactory/.claude/skills/teams-transcript-summarizer/output/meeting-summary-2026-01-26-023345.md
+================================================================================
